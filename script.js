@@ -4,7 +4,7 @@ function login()
   let p = pw.value
   if (u=="xuanhung" && p=="123")
   {
-   window.open()
+   window.open(Home.html)
    document.getElementById(compiler).style.display="block"
   }
   else
